@@ -1,7 +1,7 @@
 # Mobile-Based Nondestructive Identification of Cacao's Maturity Using Object Detection
 
 ## Project Description
-This project was developed as part of the author's Computer Science thesis and introduces a mobile-based solution to identify the maturity of cacao pods using the YOLOv5 object detection algorithm. After training, the model was exported to TensorFlow Lite to be incorporated into a user-friendly mobile app, providing real-time data on pod maturity. The ultimate goal is to make the mobile app accessible to all cacao farmers, merging modern technology with traditional practices.
+This project was developed as part of the author's Computer Science thesis and introduces a mobile-based solution to identify the maturity of cacao pods using the YOLOv5 object detection algorithm. After training, the model was exported to TensorFlow Lite to be incorporated into a mobile app.
 
 ## Features:
 - Real-time detection and identification of Cacao's Maturity.
