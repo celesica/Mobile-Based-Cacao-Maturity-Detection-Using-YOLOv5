@@ -22,21 +22,26 @@ This project was developed as part of the author's Computer Science thesis and i
 - PyTorch 2.0.1+cu118
 - Tensorflow  v2.12.0
 - Android Studio Giraffe 2022.3.1
+- Comet ML for Visualization
 
 ## UF 18 Cacao Dataset
-Dataset's Health and Class Balance
+Download the Dataset here: [UF18 Cacao Maturity Computer Vision Project](https://universe.roboflow.com/thesiscacaov1/uf18-cacao-maturity)
+
+**Dataset's Health and Class Balance**
 
 ![health-check](https://github.com/celesica/Mobile-Based-Cacao-Maturity-Detection-Using-YOLOv5/assets/10039521/618d61b6-fa9e-4216-890a-28933e20ae9a)
 
-Download the Dataset here: [UF18 Cacao Maturity Computer Vision Project](https://universe.roboflow.com/thesiscacaov1/uf18-cacao-maturity)
 
 ## Repository Contents:
 - YOLOv5 custom training notebook tutorial integrated with Google Colab.
 - Mobile app Android source code modified from this [GitHub Repository](https://github.com/AarohiSingla/TFLite-Object-Detection-Android-App-Tutorial-Using-YOLOv5/tree/main).
 
 ## Metrics
+View the training metrics via Comet ML here: [Cacao Maturity Detection Experiment](https://www.comet.com/celesica/cacao-maturity-detection/view/new/experiments)
 
 ![image](https://github.com/celesica/Mobile-Based-Cacao-Maturity-Detection-Using-YOLOv5/assets/10039521/a0d1f30b-0725-4e3a-8c5d-00a5e06c9c6f) 
+
+
 
 
 ## Detection Sample
